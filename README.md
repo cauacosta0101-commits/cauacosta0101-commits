@@ -1,16 +1,17 @@
 ## Hi there 👋
+# Olá!
 
-<!--
-**cauacosta0101-commits/cauacosta0101-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Caua.  
+Sou estudante do 1º ano do ensino médio e estou aprendendo sobre tecnologia.
 
-Here are some ideas to get you started:
+**Objetivos:**
+- Aprender programação básica
+- Entender melhor como funciona a internet e o GitHub
+- Melhorar minhas habilidades digitais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Áreas de interesse:**
+- Computação
+- Design simples
+- Ferramentas online
+
+Estou começando agora e quero aprender bastante!
